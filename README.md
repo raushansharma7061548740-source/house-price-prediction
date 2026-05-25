@@ -32,3 +32,6 @@ The main objective of this project is to build a practical Machine Learning solu
 
 ## Author
 Raushan kumar
+
+## Live Demo
+https://house-price-prediction-ke5iapketykn4qk9uwsusn.streamlit.app/
